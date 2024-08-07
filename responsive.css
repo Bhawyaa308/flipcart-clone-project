@@ -1,0 +1,21 @@
+@media screen and (max-width: 1000px) {
+    nav{
+        flex-direction: column;
+    }
+    .logo{
+        justify-content: center;
+        margin: 12px 0px; 
+    }
+    nav ul{
+        justify-content: center;
+    }
+    .search input{
+        margin: 0px 21px;
+        width: 144px;
+        justify-content: center;
+    }
+    .card{
+        overflow: scroll;
+    }
+}
+
